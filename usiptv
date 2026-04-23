@@ -1,0 +1,25 @@
+#需要走美国代理的大流量iptv地址
+
+#Samsung/LG/xiaomi/TCLplus
+DOMAIN-SUFFIX,playouts.now.amagi.tv
+DOMAIN-SUFFIX,lg.wurl.tv
+DOMAIN-SUFFIX,tsv2.amagi.tv
+DOMAIN-SUFFIX,xumo.com
+DOMAIN-KEYWORD,xumo
+
+
+#Fashion 系列
+
+DOMAIN-SUFFIX,infomaniak.com
+IP-CIDR,125.227.210.55/32
+IP-CIDR,190.11.225.124/32
+IP-CIDR,88.212.7.11/32
+# DOMAIN-SUFFIX,rostelekom.xyz ###走大流量
+#DST-PORT,25461  #走日本代理
+
+DOMAIN-SUFFIX,cdnedge.live
+DOMAIN-SUFFIX,redtraffic.xyz
+DOMAIN-SUFFIX,adultiptv.net
+#DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,amagi.tv
+DOMAIN-SUFFIX,wurl.com

@@ -1,0 +1,40 @@
+#direct domian or ip
+
+ 
+# 自定义的规则集域名规则
+DOMAIN-SUFFIX,dnsany.com
+#DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,solidigm-qwer.com
+
+DOMAIN-SUFFIX,vsean.net  
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,gcable.cn
+DOMAIN-SUFFIX,mytvsuper.xyz
+DOMAIN-KEYWORD,ipip.net
+#DOMAIN-KEYWORD,catvod
+#DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,migucloud.com
+
+
+DOMAIN-SUFFIX,erw.cc
+
+  # 常用必备
+
+DOMAIN-SUFFIX,imee.me
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,apissl.ksapisrv.com
+DOMAIN-SUFFIX,edith.xiaohongshu.com
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,188766.xyz
+
+
