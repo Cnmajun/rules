@@ -1,0 +1,258 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 group-title="Fashion",Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg"  group-title="Fashion", Fashion TV
+https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8?ads_amagi_channel=1060&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=hobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=1278&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=78153b0c-94bd-4d26-9a55-eafb5fd7f029&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png"  group-title="Fashion",FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-chno="" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" ,FashionTV Plex
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=HNrR2zy_a6ySEsSDQkrH
+
+#EXTINF:--1 group-title="Fashion",Fashion Channel(720p)
+http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Fashion",Fashion midnight
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png" group-title="rainbow",驚豔台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png" group-title="rainbow",潘朵啦玩美台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="" group-title="rainbow",香蕉台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png" group-title="rainbow",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png" group-title="rainbow",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png" group-title="rainbow",松視3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6280/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2014.png",Playboy TV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6242/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="",Playboy 
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12135/index.m3u8
+
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3202.png",MetArt FHD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12160/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3202.png",MetArt HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6233/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/11478.png",FTV Girls HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12165/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3222.png",SexArt HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6165/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3222.png",SexArt
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6253/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3181.png",FemJoy
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6212/index.m3u8
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3227.png",Tiny4K
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6258/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3230.png",Tushy HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6261/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3231.png",Tushy RAW HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6262/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3230.png",Tushy
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12188/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3234.png",Vixen HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6265/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3236.png",White Boxxx
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6267/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3237.png",Wicked
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6268/index.m3u8
+
+
+#EXTINF:-1 group-title="444" tvg-logo="",Cum4k
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6190/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2780.png",Extasy 4K
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5014/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2776.png",Penthouse Passion HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5010/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2777.png",Penthouse Gold HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5011/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2779.png",Penthouse Reality TV FHD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5013/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2781.png",Eroxxx HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5015/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="",21 Sextury
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6164/index.m3u8
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3140.png",Babes
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6172/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3147.png",Blacked HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6178/index.m3u8
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3160.png",Daughter Swap
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6191/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3162.png",DDF Busty
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6193/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3163.png",DDF Network
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6194/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3164.png",Digital Desire HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6195/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3165.png",Digital Playground HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6196/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3166.png",Dorcel Club
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6197/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3167.png",Porn Angels
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6198/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="",Extasy HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3171.png",Fake Taxi HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6202/index.m3u8
+
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3194.png",Japan HDV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6225/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3196.png",Lesbea
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6227/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3198.png",Lethal Hardcore
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6229/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3199.png",Little Asians HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6230/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3205.png",MYLF TV HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6236/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3206.png",Naughty America
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6237/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3207.png",Nubiles TV HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6238/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="",ox-ax HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6239/index.m3u8
+
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3216.png",Reality Kings HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6247/index.m3u8
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3224.png",SINematica
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6255/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3255.png",XY Max HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6286/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3256.png",XY Mix HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6287/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3257.png",XY Plus HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6288/index.m3u8
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/4633.png",Eromania 4K
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/10049/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3170.png",StrahTV Extasy HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/11051/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/4787.png",StrahTV KinoXXX
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/11052/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/4788.png",StrahTV Ох-Ах HD
+
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2021.png",Brazzers TV Europe HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12113/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="",Bang U
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12114/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="",XY Plus 6
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12117/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="",PASSION XXX
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12120/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="",DUSK TV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12129/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/7729.png",Dirty Flix
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12130/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/2324.png",Dorcel TV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12131/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3237.png",Wicked HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12133/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="",FREE X TV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12134/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/4943.png",Passie XXX TV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12136/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/7738.png",Cum4k UHD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12157/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/7755.png",Anal 4K
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12190/index.m3u8
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/7756.png",Amateur Boxxx
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12191/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3133.png",21 Sextury
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12205/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="",StrahTV Adult TV HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/31707/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/8848.png",StrahTV Ню Арт HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/31716/index.m3u8
+
+#EXTINF:-1 group-title="444" tvg-logo="",A3 Bikini
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6165/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | META ART X" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | META ART X
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100708
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | TUSHY RAW" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | TUSHY RAW
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100709
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | SEX ART" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | SEX ART
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100710
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | MOFOS XX" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | MOFOS XX
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100711
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | DIGITALPLAYGROUND 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | DIGITALPLAYGROUND 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100712
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | DIGITALPLAYGROUND 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | DIGITALPLAYGROUND 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100713
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | DIGITALPLAYGROUND 3" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | DIGITALPLAYGROUND 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100714
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | REALITY KINGS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | REALITY KINGS 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100715
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | DORCEL" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | DORCEL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100716
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | REALITY KINGS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | REALITY KINGS 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100717
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | REALITY KINGS 3" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | REALITY KINGS 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100718
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | REALITY KINGS 4" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | REALITY KINGS 4
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100719
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | ULTRA FİLMS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | ULTRA FİLMS 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100720
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | ULTRA FİLMS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | ULTRA FİLMS 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100721
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100722
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100723
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 3" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100724
