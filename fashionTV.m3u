@@ -6,7 +6,7 @@ https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png"  group-title="Fashion",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-chno="" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" ,FashionTV Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-chno="" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png"  group-title="Fashion" ,FashionTV Plex
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=HNrR2zy_a6ySEsSDQkrH
 
 #EXTINF:--1 group-title="Fashion",Fashion Channel(720p)
@@ -222,14 +222,22 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/31716/index.m3u8
 #EXTINF:-1 group-title="444" tvg-logo="",A3 Bikini
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6165/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | ULTRA FİLMS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | ULTRA FİLMS 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100720
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | ULTRA FİLMS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | ULTRA FİLMS 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100721
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100722
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100723
+#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 3" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 3
 #EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | META ART X" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | META ART X
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100708
 #EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | TUSHY RAW" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | TUSHY RAW
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100709
 #EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | SEX ART" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | SEX ART
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100710
-#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | MOFOS XX" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | MOFOS XX
-http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100711
+
 #EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | DIGITALPLAYGROUND 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | DIGITALPLAYGROUND 1
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100712
 #EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | DIGITALPLAYGROUND 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | DIGITALPLAYGROUND 2
@@ -246,13 +254,5 @@ http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100717
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100718
 #EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | REALITY KINGS 4" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | REALITY KINGS 4
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100719
-#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | ULTRA FİLMS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | ULTRA FİLMS 1
-http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100720
-#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | ULTRA FİLMS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | ULTRA FİLMS 2
-http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100721
-#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 1" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 1
-http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100722
-#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 2" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 2
-http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100723
-#EXTINF:-1 tvg-id="" tvg-name="ADULT 7/24 | WOW GIRLS 3" tvg-logo="https://i.ibb.co/wgvTNyS/logo.png" group-title="SPECIAL BOX",ADULT 7/24 | WOW GIRLS 3
+
 http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100724
