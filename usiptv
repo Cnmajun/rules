@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,lg.wurl.tv
 DOMAIN-SUFFIX,tsv2.amagi.tv
 DOMAIN-SUFFIX,xumo.com
 DOMAIN-KEYWORD,xumo
+
+DOMAIN-KEYWORD,cloudfront
+DOMAIN-KEYWORD,akamaized
 #DOMAIN-KEYWORD,852851
 
 #Fashion 系列
