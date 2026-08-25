@@ -41,6 +41,9 @@ http://a0bn5xro.rostelekom.xyz/iptv/GFGDU5GN37YRF8/6242/index.m3u8
 #EXTINF:-1 group-title="444" tvg-logo="",Playboy 
 http://a0bn5xro.rostelekom.xyz/iptv/GFGDU5GN37YRF8/12135/index.m3u8
 
+#EXTINF:-1 group-title="444" tvg-logo="",Playboy Neo
+http://neosfpoo.top:8080/2961736874275652/ac89ac84b1a3/73999
+
 
 
 #EXTINF:-1 group-title="444" tvg-logo="http://epg.one/img2/3202.png",MetArt FHD
